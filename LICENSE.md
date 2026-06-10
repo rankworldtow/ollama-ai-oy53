@@ -1,4 +1,4 @@
-# 
+# Automatique Ollama modèles. Avec autonomie des agents et tests automatisés — optimisé pour des performances et une efficacité maximales.
 
 
 
